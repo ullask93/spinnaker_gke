@@ -32,3 +32,9 @@ PROJECT_ID=${DEVSHELL_PROJECT_ID}
 ~/cloudshell_open/spinnaker-for-gcp/scripts/install/setup_properties.sh
 ~/cloudshell_open/spinnaker-for-gcp/scripts/install/setup.sh
 ```
+Connect to Spinnaker
+```
+~/cloudshell_open/spinnaker-for-gcp/scripts/manage/connect_unsecured.sh
+```
+
+
