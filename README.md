@@ -17,3 +17,4 @@ This is a simple pipeline setup using Spinnaker for the Continuous Delivery and 
 - Once the Deployment is Successful, one may need to manually approve for the Deployment into Prod Cluster **(Manual Approval)**
 - Deployment into the Prod Cluster **(Deploy Manifest)**
 
+![Spinnaker Pipeline](https://github.com/ullask93/spinnaker_gke/blob/main/images/Screenshot%20from%202022-01-30%2019-01-24.png)
