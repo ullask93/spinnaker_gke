@@ -1,6 +1,5 @@
 # Spinnaker Setup on GCP
 
-GCP provides easy way to setup Spinnaker on GCP. <br>
 Refer link: https://github.com/GoogleCloudPlatform/spinnaker-for-gcp.git
 
 Clone this repo on Google Console in the Directory ```cloudshell_open```
