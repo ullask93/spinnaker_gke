@@ -4,7 +4,7 @@ This is a simple pipeline setup using Spinnaker for the Continuous Delivery and 
 
 ## The Setup
 
-- [Spinnaker Setup](https://github.com/ullask93/spinnaker_gke/blob/main/GKE_setup.md)
+- [Spinnaker Setup](https://github.com/ullask93/spinnaker_gke/blob/main/spinnaker_setup.md)
 - [GKE Cluster Setup](https://github.com/ullask93/spinnaker_gke/blob/main/GKE_setup.md)
 - [Code Build trigger for source code change in Github](https://cloud.google.com/build/docs/automating-builds/build-repos-from-github)
 
