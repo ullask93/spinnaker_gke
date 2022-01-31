@@ -14,7 +14,7 @@ mkdir $HOME/spinnaker
 cd $HOME/spinnaker
 WORKDIR=$(pwd)
 ```
-Install kubectx (this tool will help to easily swith between different contexts)
+Install kubectx (this tool will helps us to easily switch between different contexts)
 ```
 git clone https://github.com/ahmetb/kubectx $WORKDIR/kubectx
 export PATH=$PATH:$WORKDIR/kubectx
